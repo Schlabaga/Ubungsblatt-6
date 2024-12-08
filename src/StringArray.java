@@ -3,7 +3,7 @@ public class StringArray {
     private String[] array;
 
     // Make a constructor
-    public StringArray(int size) {
+    public StringArray(int size){
         this.array = new String[size];
     }
 
