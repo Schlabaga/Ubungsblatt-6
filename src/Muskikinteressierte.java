@@ -3,22 +3,22 @@ public class Muskikinteressierte {
 
 };
 
-public class Musiker extends Muskikinteressierte {
+class Musiker extends Muskikinteressierte {
 
 };
 
-public class Fan extends Muskikinteressierte {
+class Fan extends Muskikinteressierte {
 
 };
 
-public class Rockstar extends Musiker {
+class Rockstar extends Musiker {
 
 };
 
-public class Konzertpianist extends Musiker {
+class Konzertpianist extends Musiker {
 
 };
 
-public class Bassist extends Rockstar {
+class Bassist extends Rockstar {
 
 };
